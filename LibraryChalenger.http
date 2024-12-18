@@ -1,0 +1,6 @@
+@LibraryChalenger_HostAddress = http://localhost:5090
+
+GET {{LibraryChalenger_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
